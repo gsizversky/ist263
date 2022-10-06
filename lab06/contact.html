@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta charset="utf-8"> 
+    <title>Contact</title>
+    <link rel="stylesheet" href="styles.css"/>
+   </head>
+   <body>
+     <h1>Contact</h1>  
+     <p>
+         Gabriella Izversky <br>
+         Syracuse University <br>
+         405 University Place <br>
+         Syracuse, NY 13244 <br>
+     </p>
+     <h2> <a href="mailto:gsizvers@syr.edu">Gabriella Izversky Email</a></h2>
+    <h2>My LinkedIn Profile</h2>
+    <a href="https://www.linkedin.com/in/gabriellaizversky/">My LinkedIn Profile</a>
+    <img src="../images/logo-sized.png" alt="linkedin logo">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2916.085962544162!2d-76.13304034918885!3d43.039622799804754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9f3754c82b97b%3A0xa1a5eec56ddb8a56!2sWatson%20hall%2C%20405%20University%20Pl%2C%20Syracuse%2C%20NY%2013210!5e0!3m2!1sen!2sus!4v1663257267342!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <form action="https://formspree.io/f/xdojgkqb" method="POST">
+      <label for="name">Name:</label><br>
+      <input type="text" id="name" name="name"><br>
+      <input type="checkbox" id="contact1" name="contact1" value="email">
+      <label for="contact1"> Contact by email</label><br>
+      <input type="checkbox" id="contact2" name="contact2" value="phone">
+      <label for="contact2">Contact by phone</label><br>
+      <label for="comments">Comments:</label>
+      <textarea id="comments" name="comments" rows="4" cols="50">Lorem ipsum.</textarea>
+
+        <input type="submit" value="send form">
+      </form>
+   </body>
