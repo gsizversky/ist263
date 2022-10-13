@@ -1,0 +1,26 @@
+body{
+    background-color: #dfb3f2;
+}
+nav{
+    background-color: #adedea;
+}
+nav a{
+    color: #e31edc;
+}
+nav a:hover{
+    background-color: #f3f707;
+}
+nav{padding: 10px;}
+nav{margin-bottom: 30px;}
+p,li,form,table{
+    color: #72439c;
+}
+h1,h2,h3,caption{
+    color:#060d91;
+}
+a:link{ 
+    color: #f3f707;
+}
+a:visited{
+    color: #2e2e2c;
+}
