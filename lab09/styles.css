@@ -1,0 +1,92 @@
+body{
+    background-color: #dfb3f2;
+}
+nav{
+    background-color: #adedea;
+}
+nav a{
+    color: #e31edc;
+}
+nav a:hover{
+    background-color: #f3f707;
+}
+nav{padding: 10px;}
+nav{margin-bottom: 30px;}
+p,li,form,table{
+    color: #72439c;
+}
+h1,h2,h3,caption{
+    color:#060d91;
+}
+a:link{ 
+    color: #f3f707;
+}
+a:visited{
+    color: #2e2e2c;
+}
+.quote{
+    float: right;
+}
+.bioimage{
+    float: left; margin-right: 20px;
+}
+.row1 {
+    display: flex;
+    padding: 20px;
+    background-color: #ebdbda;
+    margin: 20px;
+    border-radius: 1em;
+    margin-bottom: 10px;
+  
+
+}
+.address{
+    margin: 10px;
+    padding: 10px;
+   
+}
+.linkedin{
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.row2 {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    background-color: #adedea;
+    border-radius: 1em;
+   
+}
+.form {
+    order: 1;
+    padding: 10px;
+   
+}
+.frame{
+    order: 2;
+   
+}
+.heading, .caption{
+    text-align: center;
+}
+.skillspics{
+    display:flex;
+    flex: .75;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+}
+.otherskills{
+    flex: .25;
+    padding: 20px;
+    margin: 20px;
+    background-color: #adedea;
+    border-radius: 1em;
+}
+.flexbox2{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
