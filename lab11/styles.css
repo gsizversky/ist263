@@ -9,7 +9,7 @@ nav a{
     padding: 5px;
 }
 nav a:hover{
-    background-color: #720654;
+    background-color: #051ad8;
 }
 nav{padding: 10px;}
 nav{margin-bottom: 30px;}
@@ -58,7 +58,7 @@ a:visited{
     display: flex;
     padding: 20px;
     margin: 20px;
-    background-color: #adedea;
+    background-color: #0dcb36;
     border-radius: 1em;
     flex-wrap: wrap;
    
@@ -101,7 +101,7 @@ a:visited{
     
 }
 .skip{
-    background-color:#e31edc;
+    background-color:#fc09f4;
     padding: 5px;
     border: 1px solid #25f20e;
     position: absolute;

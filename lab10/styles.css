@@ -2,7 +2,7 @@ body{
     background-color: #dfb3f2;
 }
 nav{
-    background-color: #adedea;
+    background-color: #03cbc1;
 }
 nav a{
     color: #e31edc;
@@ -17,7 +17,7 @@ p,li,form,table{
     color: #72439c;
 }
 h1,h2,h3,caption{
-    color:#060d91;
+    color:#000669;
 }
 a:link{ 
     color: #f3f707;
@@ -35,7 +35,7 @@ a:visited{
 .row1 {
     display: flex;
     padding: 20px;
-    background-color: #ebdbda;
+    background-color: #e50f00;
     margin: 20px;
     border-radius: 1em;
     margin-bottom: 10px;
@@ -57,7 +57,7 @@ a:visited{
     display: flex;
     padding: 20px;
     margin: 20px;
-    background-color: #adedea;
+    background-color: #09f2e7;
     border-radius: 1em;
     flex-wrap: wrap;
    
@@ -85,7 +85,7 @@ a:visited{
     flex: .25;
     padding: 20px;
     margin: 20px;
-    background-color: #adedea;
+    background-color: #f29b04;
     border-radius: 1em;
 }
 .flexbox2{
