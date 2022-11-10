@@ -100,4 +100,15 @@ a:visited{
     span {display: none;}
     
 }
-  
+.skip{
+    background-color: #ffa600f4;
+    padding: 5px;
+    border: 1px solid #000000;
+    position: absolute;
+    top:30px;
+    left: -999px; /* pushes it off screen*/
+}
+/* focus is a pseudo class that means the elemengt has been tabbed to*/
+.skip:focus{
+    left: 10px;
+}
