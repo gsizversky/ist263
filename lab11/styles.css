@@ -2,28 +2,28 @@ body{
     background-color: #dfb3f2;
 }
 nav{
-    background-color: #adedea;
+    background-color: #43fff6;
 }
 nav a{
-    color: #e31edc;
+    color: #3b0039;
     padding: 5px;
 }
 nav a:hover{
-    background-color: #051ad8;
+    background-color: #f3f707;
 }
 nav{padding: 10px;}
 nav{margin-bottom: 30px;}
 p,li,form,table{
-    color: #120021;
+    color: #000000;
 }
 h1,h2,h3,caption{
-    color:#060d91;
+    color:#000669;
 }
 a:link{ 
-    color: #16049f;
+    color: #000000;
 }
 a:visited{
-    color: #000000;
+    color: #2e2e2c;
 }
 .quote{
     float: right;
@@ -35,7 +35,7 @@ a:visited{
 .row1 {
     display: flex;
     padding: 20px;
-    background-color: #ebdbda;
+    background-color: #db67ff;
     margin: 20px;
     border-radius: 1em;
     margin-bottom: 10px;
@@ -45,12 +45,12 @@ a:visited{
 .address{
     margin: 10px;
     padding: 10px;
+    color: #000000;
    
 }
 .linkedin{
     margin: 10px;
     padding: 10px;
-    color:#120021;
     
 }
 
@@ -58,7 +58,7 @@ a:visited{
     display: flex;
     padding: 20px;
     margin: 20px;
-    background-color: #0dcb36;
+    background-color: #09f2e7;
     border-radius: 1em;
     flex-wrap: wrap;
    
@@ -86,7 +86,7 @@ a:visited{
     flex: .25;
     padding: 20px;
     margin: 20px;
-    background-color: #adedea;
+    background-color: #f29b04;
     border-radius: 1em;
 }
 .flexbox2{
@@ -100,14 +100,4 @@ a:visited{
     span {display: none;}
     
 }
-.skip{
-    background-color:#fc09f4;
-    padding: 5px;
-    border: 1px solid #25f20e;
-    position: absolute;
-    top:30px;
-    left: -999px; /* pushes it off screen*/
-}
-/* focus is a pseudo class that means the elemengt has been tabbed to*/
-.skip:focus{
-    left: 10px;}
+  
