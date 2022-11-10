@@ -2,10 +2,10 @@ body{
     background-color: #dfb3f2;
 }
 nav{
-    background-color: #03cbc1;
+    background-color: #43fff6;
 }
 nav a{
-    color: #e31edc;
+    color: #3b0039;
     padding: 5px;
 }
 nav a:hover{
@@ -14,13 +14,13 @@ nav a:hover{
 nav{padding: 10px;}
 nav{margin-bottom: 30px;}
 p,li,form,table{
-    color: #72439c;
+    color: #000000;
 }
 h1,h2,h3,caption{
     color:#000669;
 }
 a:link{ 
-    color: #f3f707;
+    color: #000000;
 }
 a:visited{
     color: #2e2e2c;
