@@ -9,7 +9,7 @@ nav a{
     padding: 5px;
 }
 nav a:hover{
-    background-color: #f3f707;
+    background-color: #720654;
 }
 nav{padding: 10px;}
 nav{margin-bottom: 30px;}
@@ -20,7 +20,7 @@ h1,h2,h3,caption{
     color:#060d91;
 }
 a:link{ 
-    color: #f3f707;
+    color: #16049f;
 }
 a:visited{
     color: #2e2e2c;
