@@ -1,0 +1,35 @@
+body{
+    background-color: #aaecfe;
+}
+.nav{
+    background-color: #e6e6fa;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.row1{
+    display: flex;
+    
+}
+p{
+  border: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.tower{
+    max-width: 30%;
+}
+.boat{
+    max-width: 30%;
+}
+.eiffel{
+    max-width: 30%;
+}
+
+
+footer{
+    background-color: #e6e6fa;
+    margin:3px;
+    padding: 3px;
+}
+@media only screen and (max-width:600px){
+}
