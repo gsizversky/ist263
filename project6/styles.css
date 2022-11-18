@@ -10,13 +10,17 @@ nav a{
     margin: 5px;
     padding: 5px;
 }
+nav a:hover{
+    background-color: #ffb6c1;
+}
 .row1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     
 }
 .tower{
     max-width: 60%;
+    justify-content: space-between;
 }
 
 .boat{
@@ -25,6 +29,7 @@ nav a{
 
 .eiffel{
     max-width: 20%;
+    justify-content: space-between;
 }
 
 .columns{
