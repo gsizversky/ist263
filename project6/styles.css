@@ -19,30 +19,78 @@ nav a:hover{
     
 }
 .tower{
-    max-width: 60%;
+    max-width: 33.3%;
     justify-content: space-between;
+    padding: 5px;
 }
 
 .boat{
-    max-width: 20%;
+    max-width: 33.3%;
+    justify-content: space-between;
+    padding: 5px;
 }
 
 .eiffel{
-    max-width: 20%;
+    max-width: 33.3%;
     justify-content: space-between;
+    padding: 5px;
 }
 
 .columns{
     display: flex;
-
+}
+.parisbutton{
+    padding-right: 200px;
+    padding-top: 400px;
+}
+.venicebutton{
+    padding-right: 200px;
+    padding-top: 350px;
+}
+.londonbutton{
+    padding-right: 200px;
+    padding-bottom: 15px;
 }
 p{
   border: 5px;
   margin: 10px;
   padding: 10px;
 }
+.row2{
+    display: flex;
+    justify-content: space-between;
+}
+.guards{
+    max-width: 33.3%;
+    justify-content: space-between;
+    padding: 30px; 
+}
+.towerb{
+    max-width: 33.3%;
+    justify-content: space-between;
+    padding: 30px;
+}
+.abbey{
+    max-width: 33.3%;
+    justify-content: space-between;
+    padding: 30px;
+}
+.food{
+    display: flex;
+}
 
+.fish{
+    max-width: 40%;
+    justify-content: space-between;
+    padding-left: 95px;
+    padding-bottom: 10px;
+}
 
+.tea{
+    max-width: 60%;
+    justify-content: space-between;
+    padding-left: 50px;
+}
 footer{
     background-color: #e6e6fa;
     margin: 5px;

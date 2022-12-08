@@ -16,20 +16,20 @@ nav a{
     
 }
 .tower{
-    max-width: 60%;
+    flex:1;
 }
 
 .boat{
-    max-width: 20%;
+    flex: 1;
 }
 
 .eiffel{
-    max-width: 20%;
+    flex: 1;
 }
 
 .columns{
-    display: flex;
-
+    flex: 1;
+    
 }
 p{
   border: 5px;
