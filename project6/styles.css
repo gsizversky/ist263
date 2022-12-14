@@ -177,7 +177,7 @@ h1 {
   }
 @media only screen and (max-width:600px){
     nav a {display: block; max-width: 100%;}
-    .row2,.row3{display: block;}
+    .row2,.row3,.yes,.no,.maybe,.p,.a,.r,.container1,.container2,.container3{display: block;}
 }
 
 .column1 div {
