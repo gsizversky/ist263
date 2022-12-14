@@ -179,9 +179,6 @@ h1 {
     span {display: none;}
 }
 
-img {
-    width: 100px;
-}
 .column1 div {
     flex: 1;
     padding: 10px;
