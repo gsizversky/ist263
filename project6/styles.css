@@ -87,6 +87,7 @@ flex: round;
 .yes,.no,.maybe{
    display: flex;
 }
+
 .tea{
     max-width: 80%;
     justify-content: space-between;
@@ -176,7 +177,7 @@ h1 {
   }
 @media only screen and (max-width:600px){
     nav a {display: block; max-width: 100%;}
-    span {display: none;}
+    .row2,.row3{display: block;}
 }
 
 .column1 div {
